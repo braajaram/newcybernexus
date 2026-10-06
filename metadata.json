@@ -1,0 +1,7 @@
+{
+  "name": "cybernexus - Threat Intelligence & SecOps Platform",
+  "description": "Full-stack cybersecurity intelligence and SOC operations platform featuring live CISA KEV feeds, threat log ingestion, IOC analysis, vulnerability scanner, and incident response playbooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
